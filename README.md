@@ -1,47 +1,97 @@
 # Hi, I'm Ramin Safdar Tourehei
 
 
-#### Full-stack Developer | Game Developer | Enthusiast of AI and Cloud Technologies
-
+#### AI/ML Engineer | Reinforcement Learning · Graph ML · NLP · Agentic AI
 
 ---
 
 ## 🚀 About Me
-I'm a full-stack developer with a passion for creating efficient, scalable applications using modern web technologies. I enjoy working on open-source projects and contributing to the development community.
+
+I'm an AI/ML Engineer focused on building intelligent systems with a strong interest in Reinforcement Learning, Graph Machine Learning, NLP, and Agentic AI.
+
+I enjoy turning research ideas into practical, working systems — from reinforcement learning and graph-based models to LLM-powered agents and production-oriented ML pipelines. My background in software engineering also drives me to focus on building systems that are not only experimentally interesting, but maintainable and deployable.
+
+I'm currently deepening my experience in MLOps and scalable AI systems while exploring how these areas can be combined to build more capable and reliable AI applications.
+---
+
+### AI & Machine Learning
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=flat)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=fff&style=flat)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=fff&style=flat)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=fff&style=flat)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=fff&style=flat)
+![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-8A2BE2?style=flat)
+![Graph Neural Networks](https://img.shields.io/badge/-Graph%20Neural%20Networks-FF6F61?style=flat)
+![NLP](https://img.shields.io/badge/-NLP-4B8BBE?style=flat)
+![Transformers](https://img.shields.io/badge/-Transformers-FFD21E?logo=huggingface&logoColor=333&style=flat)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&logoColor=333&style=flat)
+
+### Agentic AI
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=langchain&logoColor=fff&style=flat)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?logo=langchain&logoColor=fff&style=flat)
+![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-6B46C1?style=flat)
+![RAG](https://img.shields.io/badge/-RAG-5C2D91?style=flat)
+![Tool Calling](https://img.shields.io/badge/-Tool%20Calling-0A7EA4?style=flat)
+![AI Agents](https://img.shields.io/badge/-AI%20Agents-0A7EA4?style=flat)
+
+### MLOps & ML Engineering
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=fff&style=flat)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=fff&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff&style=flat)
+![Evidently](https://img.shields.io/badge/-Evidently-6C5CE7?style=flat)
+![Feast](https://img.shields.io/badge/-Feast-4B0082?style=flat)
+![Kubeflow](https://img.shields.io/badge/-Kubeflow-326CE5?logo=kubeflow&logoColor=fff&style=flat)
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat)
+
+### Software Engineering
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=333&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=333&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff&style=flat)
+![REST API](https://img.shields.io/badge/-REST%20API-61DAFB?style=flat)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=fff&style=flat)
 
 ---
 
-### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=333&style=flat)
-![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=333&style=flat)
-![NextJS](https://img.shields.io/badge/-NextJS-000000?logo=next.js&logoColor=fff&style=flat)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff&style=flat)
-![PWA](https://img.shields.io/badge/-PWA-5A0FC8?logo=pwa&logoColor=fff&style=flat)
-![Typescript](https://img.shields.io/badge/-Typescript-007ACC?logo=typescript&logoColor=fff&style=flat)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=fff&style=flat)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=fff&style=flat)
+## 🚀 Featured Projects
 
-### Backend & API
-![NodeJS](https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=fff&style=flat)
-![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?logo=express&logoColor=fff&style=flat)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=fff&style=flat)
-![REST API](https://img.shields.io/badge/-REST%20API-61DAFB?logo=rest&logoColor=333&style=flat)
-![JWT](https://img.shields.io/badge/-JWT-000000?logo=jwt&logoColor=fff&style=flat)
+### 🧠 [FedOCEL](YOUR_LINK_HERE)
+Federated Reinforcement Learning for next-activity prediction in Object-Centric Event Logs (OCEL), exploring dynamic client behavior and graph-based representations.
 
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=fff&style=flat)
+**Tech:** Python · Reinforcement Learning · PPO · Graph ML · Federated Learning · OCEL
 
-### Testing
-![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=fff&style=flat)
-![React Testing Library (RTL)](https://img.shields.io/badge/-React%20Testing%20Library-61DAFB?logo=testing-library&logoColor=333&style=flat)
+---
 
-### DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff&style=flat)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat)
+### 🤖 [Agentic AI — Filesystem Agent](YOUR_LINK_HERE)
+A tool-using AI agent built with LangGraph, featuring tool calling, conditional reasoning, planning, reflection, and error-aware replanning for filesystem operations.
+
+**Tech:** Python · LangGraph · LangChain · LLMs · Tool Calling · Planning · Reflection
+
+---
+
+### ⚙️ [MLOps Pipeline](YOUR_LINK_HERE)
+An end-to-end machine learning pipeline covering experiment tracking, model versioning, data and prediction drift monitoring, feature management, model explainability, API serving, and containerization.
+
+**Tech:** Python · Scikit-learn · MLflow · Evidently · Feast · SHAP · FastAPI · Docker
+
+---
+
+### 🧠 [RecipeQA](YOUR_LINK_HERE)
+A question-answering system combining BERT-based multiple-choice QA, T5-based fallback generation, and semantic retrieval using Sentence-BERT and FAISS.
+
+**Tech:** Python · NLP · Transformers · BERT · T5 · Sentence-BERT · FAISS
+
+---
+
+### 🕸️ [FlowCompete](YOUR_LINK_HERE)
+A multi-agent reinforcement learning project combining Graph Neural Networks with MARL for competitive learning on graph-structured data.
+
+**Tech:** Python · Graph Neural Networks · MARL · OGB-MAG
 
 ---
 
