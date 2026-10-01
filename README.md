@@ -81,7 +81,7 @@ An end-to-end machine learning pipeline covering experiment tracking, model vers
 
 ---
 
-### 🧠 [RecipeQA]([YOUR_LINK_HERE](https://github.com/ramin709/Question_Answering_recipeQA))
+### 🧠 [RecipeQA](https://github.com/ramin709/Question_Answering_recipeQA)
 A question-answering system combining BERT-based multiple-choice QA, T5-based fallback generation, and semantic retrieval using Sentence-BERT and FAISS.
 
 **Tech:** Python · NLP · Transformers · BERT · T5 · Sentence-BERT · FAISS
